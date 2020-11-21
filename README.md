@@ -12,3 +12,6 @@ One can gain a lot of confidence by practicing these questions if not become an 
         
 #### 2. How do you find the duplicate number on a given integer array?
         File name: array_2.cpp
+
+#### 3. How do you find the largest and the smallest number in an unsorted integer array?
+        File name: array_3.cpp
