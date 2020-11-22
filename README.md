@@ -9,9 +9,9 @@ One can gain a lot of confidence by practicing these questions if not become an 
 ### QUESTION LIST:-
 #### 1. How do you find the missing number in a given integer array of 1 to 100?
         File name: array_1.cpp
-        
 #### 2. How do you find the duplicate number on a given integer array?
         File name: array_2.cpp
-
 #### 3. How do you find the largest and the smallest number in an unsorted integer array?
         File name: array_3.cpp
+#### 4. How do you print duplicate characters from a string?
+        File name: string_1.cpp
