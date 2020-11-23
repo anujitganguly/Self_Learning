@@ -15,3 +15,5 @@ One can gain a lot of confidence by practicing these questions if not become an 
         File name: array_3.cpp
 #### 4. How do you print duplicate characters from a string?
         File name: string_1.cpp
+#### 5. How do you check if two strings are anagrams of each other?
+        File name: string_2.cpp
