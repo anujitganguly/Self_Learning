@@ -19,5 +19,7 @@ One can gain a lot of confidence by practicing these questions if not become an 
         File name: string_1.cpp
 #### 6. How do you check if two strings are anagrams of each other?
         File name: string_2.cpp
-#### 7. How is a bubble sort algorithm implemented?
+#### 7. Write a code for Bubble Sort.
         File name: bubble.cpp
+#### 8. Write a code for Quick Sort.
+        File name: quick.cpp
