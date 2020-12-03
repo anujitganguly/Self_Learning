@@ -19,12 +19,15 @@ One can gain a lot of confidence by practicing these questions if not become an 
         File name: string_1.cpp
 #### 6. How do you check if two strings are anagrams of each other?
         File name: string_2.cpp
-#### 7. Write a code for Bubble Sort.
+#### 7. How do you print the first non-repeaated character from a string?
+        File name: string_3.cpp
+#### 8. Write a code for Bubble Sort.
         File name: bubble.cpp
-#### 8. Write a code for Quick Sort.
+#### 9. Write a code for Quick Sort.
         File name: quick.cpp
-#### 9. Write a code for Insertion Sort.
+#### 10. Write a code for Insertion Sort.
         File name: insertion.cpp
-#### 10. Write a code for Merge Sort.
+#### 11. Write a code for Merge Sort.
+        File name: merge.cpp
 
 DISCLAIMER: Many codes are written after taking help from websites like Geekforgeeks, programingz.com, sanfoundry, quora, stackoverflow, etc. It is not exact copy paste, but following websites helped me to understand the concepts in detail and thus I am mentioning them in case it may also help others.
