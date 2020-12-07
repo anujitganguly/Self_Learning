@@ -31,5 +31,7 @@ One can gain a lot of confidence by practicing these questions if not become an 
         File name: insertion.cpp
 #### 12. Write a code for Merge Sort.
         File name: merge.cpp
+#### 13. How do you find the duplicate numbers in an array if it contains multiple duplicates?
+        File name: array_5.cpp
 
 DISCLAIMER: Many codes are written after taking help from websites like Geekforgeeks, programingz.com, sanfoundry, quora, stackoverflow, etc. It is not exact copy paste, but following websites helped me to understand the concepts in detail and thus I am mentioning them in case it may also help others.
