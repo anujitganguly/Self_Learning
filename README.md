@@ -31,6 +31,8 @@ One can gain a lot of confidence by practicing these questions if not become an 
         File name: string_3.cpp
 #### 4. How can a given string be reversed using recursion?
         File name: string_4.cpp
+#### 5. How do you check if a string contains only digits?
+        File name: string_5.cpp
 #### 6. How do you find the number of vowels and consonants in a given string?
         File name: string_6.cpp
 #### 7. How are duplicate characters found in a string?
