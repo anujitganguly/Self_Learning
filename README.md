@@ -39,7 +39,9 @@ One can gain a lot of confidence by practicing these questions if not become an 
         File name: string_7.cpp
 #### 8. How do you find the oocurence of a given character in a string?
         File name: string_8.cpp
-
+#### 9. How do you find all permutations of a string?
+        File name: string_9.cpp
+        
 #### SORTING
 #### 1. Write a code for Bubble Sort.
         File name: bubble.cpp
