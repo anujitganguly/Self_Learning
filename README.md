@@ -55,7 +55,9 @@ One can gain a lot of confidence by practicing these questions if not become an 
 #### LINKED LIST
 #### 1. How do you find the middle element of a singly linked list?
         File name: linked_1.cpp
-        
+#### 2. How do you check if a given linked list contains a cycle?
+#### 3. How do you reverse a linked list?
+
 #### TREE
 #### 1. How is a binary tree implemented?
         File name: tree_1.cpp
