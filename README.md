@@ -63,3 +63,4 @@ One can gain a lot of confidence by practicing these questions if not become an 
         File name: tree_1.cpp
         
 DISCLAIMER: Many codes are written after taking help from websites like Geekforgeeks, programingz.com, sanfoundry, quora, stackoverflow, etc. It is not exact copy paste, but following websites helped me to understand the concepts in detail and thus I am mentioning them in case it may also help others.
+One Python code is there to understand different sorting techniques.
